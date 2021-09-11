@@ -72,7 +72,7 @@
 
 # Robot example :
 ----------------------
-- 📌 ID Telegram [@Test11ddd1bot](https://t.me/Test11ddd1bot)
+- 📌 BOT [@Test11ddd1bot](https://t.me/Test11ddd1bot)
 
 # Download :
 ----------------------
