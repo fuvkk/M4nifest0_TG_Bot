@@ -6,7 +6,7 @@ ob_start();
 
 include("jdf.php");
 
-$API_KEY = '';
+$API_KEY = '5457862323:AAGOHC0YWxymBx5DOSTNueVmUnmpe-dnhu8';
 ##------------------------------##
 define('API_KEY', $API_KEY);
 function bot($method, $datas = [])
